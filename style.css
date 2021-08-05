@@ -1,5 +1,9 @@
 /* Just a few simple css classes here*/
 
+body {
+  background-color: rgb(211, 211, 211);
+}
+
 .text-centered {
   text-align : center
 }
