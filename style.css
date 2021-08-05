@@ -1,0 +1,60 @@
+/* Just a few simple css classes here*/
+
+.text-centered {
+  text-align : center
+}
+
+.darktext {
+  color: rgb(255, 255, 255);
+  background-color: rgb(44, 62, 80);
+ 
+}
+
+.wrapper {
+  width : 350px;
+  margin: auto;
+}
+
+/* I was trying to make a custom looking links, but for some reason they didn't work, so I've decided to leave them here, so I can work on them with my mentor later */
+a:link {color: white};
+a:visited {color: aquamarine};
+a:hover {color: blueviolet};
+a:active {color: aqua};
+
+
+.navigation {
+  font-family: cursive;
+  padding: 5px;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+h3 {
+  font-family: cursive;
+  font-style: normal
+}
+
+p {
+  color: rgb (69, 90, 100);
+  font-family: cursive;
+}
+
+h2 {
+  color: rgb(44, 62, 80);
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+li {
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+}
+
+.foot{
+  color: rgb(255, 255, 255);
+  background-color: rgb(44, 62, 80);
+  height: 60px;
+}
