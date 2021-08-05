@@ -19,11 +19,15 @@ body {
   margin: auto;
 }
 
-/* I was trying to make a custom looking links, but for some reason they didn't work, so I've decided to leave them here, so I can work on them with my mentor later */
+/* I was trying to make a custom looking links, but for some reason they didn't work, so I've decided to leave them here, so I can work on them with my mentor later 
 a:link {color: white};
 a:visited {color: aquamarine};
 a:hover {color: blueviolet};
-a:active {color: aqua};
+a:active {color: aqua}; */
+
+a {
+  color: rgb(0, 255, 255);
+}
 
 
 .navigation {
