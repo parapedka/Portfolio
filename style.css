@@ -26,11 +26,11 @@ a:hover {color: blueviolet};
 a:active {color: aqua}; */
 
 a {
-  color: rgb(0, 255, 0);
+  color: rgb(138, 43, 226);
   font-size: 20px;
 }
 
-a:hover {color: blueviolet};
+a:hover {color: rgb(0, 255, 0};
 
 .navigation {
   font-family: cursive;
