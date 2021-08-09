@@ -11,8 +11,13 @@ body {
 .darktext {
   color: rgb(255, 255, 255);
   background-color: rgb(255, 0, 0);
- 
 }
+
+img{
+   width: 300px;
+   height: 350px;
+ }
+  
 
 .wrapper {
   width : 350px;
@@ -27,9 +32,8 @@ a:active {color: aqua}; */
 
 a {
   color: rgb(138, 43, 226);
-  font-size: 20px;
+  font-size: 17px;
 }
-
 a:hover {color: rgb(0, 255, 0};
 
 .navigation {
@@ -70,8 +74,4 @@ li {
   height: 60px;
 }
 
-img{
-   width: 300px;
-   height: 350px;
- }
-  
+
