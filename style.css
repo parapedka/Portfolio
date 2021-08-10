@@ -29,11 +29,16 @@ a:visited {color: aquamarine};
 a:hover {color: blueviolet};
 a:active {color: aqua}; */
 
-a {
+nav a {
   color: white;
   font-size: 17px;
 }
-a:hover {color: black};
+nav a:hover {color: black};
+main a {
+  color: lime;
+  font-size: 17px;
+}
+main a:hover {color: brown};
 
 .navigation {
   font-family: cursive;
