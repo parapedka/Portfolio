@@ -34,7 +34,8 @@ nav a {
   font-size: 17px;
 }
 nav a:hover {color: black};
-main a {
+
+main a{
   color: lime;
   font-size: 17px;
 }
