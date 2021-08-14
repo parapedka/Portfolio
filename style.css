@@ -31,13 +31,13 @@ a:active {color: aqua}; */
 
 nav a {
   color: white;
-  font-size: 17px;
+  
 }
 nav a:hover {color: black};
 
 main a{
   color: lime;
-  font-size: 17px;
+  
 }
 main a:hover {color: brown};
 
